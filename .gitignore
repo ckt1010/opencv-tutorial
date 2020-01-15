@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+
+*.mp4
+*.o
+*.jpg
+.vscode
+coverage
